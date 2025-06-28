@@ -68,7 +68,7 @@ class CartPage extends StatelessWidget {
                       ),
                       child: const Text('Finalizar compra',style: TextStyle(color: Colors.white),),
                     ),
-                  )
+                  ), Text("testo"),
                 ],
               ),
             )
